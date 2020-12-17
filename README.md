@@ -1,0 +1,2 @@
+# selfbot
+exile selfbot 
